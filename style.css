@@ -1,0 +1,48 @@
+e* {
+  padding: 0px; 
+  margin: 0px;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 5px;
+  grid-auto-rows: minmax(60px, auto);
+}
+
+.text1{
+  grid-column: 1 / 4;
+  text-align: center;
+  font-family: Comic Sans MS;
+  color: red;
+}
+
+.text1:hover{
+  color: black;
+  transition: 0.8s;
+}
+
+img {
+  width: 100%;
+}
+
+.img0, .img7 {
+  height: 100%;
+ grid-row: span 2;
+}
+
+.textvak1 {
+      grid-column: 1 / 1;
+  grid-row: 1;
+}
+
+.textvak2 {
+      grid-column: 2 / 2;
+  grid-row: 1;
+}
+
+.textvak3 {
+      grid-column: 3 / 3;
+  grid-row: 1;
+}
+

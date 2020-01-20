@@ -1,2 +1,2 @@
 # kerstpret-
-link: file:///C:/Users/HugoV/Desktop/MA/bewijzenmap/periode1.2/FRO/kerst/index.html
+http://25383.hosts1.ma-cloud.nl/FRO/kerst/
